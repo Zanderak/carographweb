@@ -1,9 +1,22 @@
 <html>
+<Title>Insert Title
+</Title>
 <style>
+body
+{
+	background-color: #154053;
+
+	text-align: left;
+	color: #FFFFFF
+	font-family: Georgia, sans-serif;
+	font-size: 14px;
+}
 </style>
 
 <body>
   Homepage
+
+	This is a test.
 </body>
   
 </html>
